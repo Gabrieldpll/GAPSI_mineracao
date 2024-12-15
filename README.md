@@ -5,7 +5,11 @@ Todo o trabalho foi desenvolvido no ambiente Colab, utilizando tanto Python quan
 Para fins de organização, este trabalho é dividido em duas partes: (1) Análise de associação/correlação, análise de agrupamentos, redução de dimensionalidade e análise exploratória; (2) Modelagem preditiva
 
 (1) https://colab.research.google.com/drive/1Zl79vkz0wSfmhWgbcauJQT8qJFEsmmLx?usp=sharing
+
+
 (2) https://colab.research.google.com/drive/1vbjaNNdCbzdZOc2roXOeIYw568-4X5JN?usp=sharing
 
 
 O objetivo desse repositório é expor o que foi desenvolvido no trabalho, como parte da disciplina de mineração estatísica de dados.
+
+Alguns dos conteúdos desse trabalho são : Análise de associação, análise de correlação, inferência estatística, estatística bayesiana, regressão multinomial, modelos lineares generalizados aditivos (GAM), PCA, agrupamento de dados.
